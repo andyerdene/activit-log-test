@@ -1,0 +1,103 @@
+{
+  "studentId": "andy",
+  "logs": [
+    [
+      {
+        "data": { "app": "Google Chrome" },
+        "duration": 8268.567,
+        "id": null,
+        "timestamp": "2025-04-24T03:52:34.732000+00:00"
+      },
+      {
+        "data": { "app": "Code" },
+        "duration": 2019.164,
+        "id": null,
+        "timestamp": "2025-04-24T04:17:12.954000+00:00"
+      },
+      {
+        "data": { "app": "Dota 2" },
+        "duration": 1941.175,
+        "id": null,
+        "timestamp": "2025-04-24T07:43:53.514000+00:00"
+      },
+      {
+        "data": { "app": "Postman" },
+        "duration": 813.903,
+        "id": null,
+        "timestamp": "2025-04-24T03:54:10.640000+00:00"
+      },
+      {
+        "data": { "app": "Microsoft Teams" },
+        "duration": 385.574,
+        "id": null,
+        "timestamp": "2025-04-24T06:05:09.792000+00:00"
+      },
+      {
+        "data": { "app": "loginwindow" },
+        "duration": 360.401,
+        "id": null,
+        "timestamp": "2025-04-24T04:36:36.344000+00:00"
+      },
+      {
+        "data": { "app": "Terminal" },
+        "duration": 195.417,
+        "id": null,
+        "timestamp": "2025-04-24T03:53:38.527000+00:00"
+      },
+      {
+        "data": { "app": "Figma" },
+        "duration": 178.236,
+        "id": null,
+        "timestamp": "2025-04-24T06:05:24.170000+00:00"
+      },
+      {
+        "data": { "app": "Mail" },
+        "duration": 63.391,
+        "id": null,
+        "timestamp": "2025-04-24T04:30:32.378000+00:00"
+      },
+      {
+        "data": { "app": "Notes" },
+        "duration": 58.556,
+        "id": null,
+        "timestamp": "2025-04-24T05:58:24.179000+00:00"
+      },
+      {
+        "data": { "app": "Calendar" },
+        "duration": 44.483,
+        "id": null,
+        "timestamp": "2025-04-24T06:48:15.559000+00:00"
+      },
+      {
+        "data": { "app": "Finder" },
+        "duration": 38.571,
+        "id": null,
+        "timestamp": "2025-04-24T03:52:32.893000+00:00"
+      },
+      {
+        "data": { "app": "System Settings" },
+        "duration": 21.124,
+        "id": null,
+        "timestamp": "2025-04-24T03:52:32.352000+00:00"
+      },
+      {
+        "data": { "app": "coreautha" },
+        "duration": 4.608,
+        "id": null,
+        "timestamp": "2025-04-24T04:33:14.032000+00:00"
+      },
+      {
+        "data": { "app": "Steam Helper" },
+        "duration": 3.558,
+        "id": null,
+        "timestamp": "2025-04-24T07:43:33.771000+00:00"
+      },
+      {
+        "data": { "app": "Steam" },
+        "duration": 0.919,
+        "id": null,
+        "timestamp": "2025-04-24T07:43:32.852000+00:00"
+      }
+    ]
+  ]
+}
